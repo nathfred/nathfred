@@ -2,6 +2,6 @@
 
 * 🎓 Final-Year College Student
 * 🔭 Web Back-End Focused
-* 🖥 Blockchain & Cryptocurrency interests
+* 🖥 Blockchain & Cryptocurrency Architecture & Analysis Tnterests
 * 💬 Ask Me Anything :D
 * 📫 Reach Me: frederickonathanael@gmail.com
